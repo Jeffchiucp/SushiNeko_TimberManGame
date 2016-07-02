@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B0B9C069CB11C05D772827A4E026B7FA4115001",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA" : 0,
+    "1B0B9C069CB11C05D772827A4E026B7FA4115001" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D973FE94-6707-4F7B-B9D5-0C37399E34E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA" : "..",
+    "1B0B9C069CB11C05D772827A4E026B7FA4115001" : "Sushi-NekoTimberLand-SpriteKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SushiNeko",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SushiNeko.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MakeSchool-Tutorials\/Sushi-Neko-SpriteKit-Swift-Solution.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B0B9C069CB11C05D772827A4E026B7FA4115001"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jeffchiu605\/Hoppy-Bunny-SpriteKit-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CAABE058B12D5EC164F9C901AC8E53DE216FB1FA"
+    }
+  ]
+}
